@@ -1,0 +1,1203 @@
+% Text title            : One Thousand Sentences for Conversation in Sanskrit
+% File name             : daily.itx
+% Category              : major\_works, learnsanskrit
+% Location              : doc\_z\_misc\_major\_works
+% Transliterated by     : S. V. Ganesan and C. S. Raghavendra
+% Proofread by          : S. V. Ganesan and C. S. Raghavendra
+% Latest update         : April 10, 2019
+% Send corrections to   : sanskrit@cheerful.com
+%
+% This text is prepared by volunteers and is to be used for personal study 
+% and research. The file is not to be copied or reposted for promotion of 
+% any website or individuals or for commercial purpose without permission. 
+% Please help to maintain respect for volunteer spirit.
+%
+\documentstyle[11pt,multicol,itrans]{article}
+#include=ijag.inc
+#endwordvowel=.h
+\portraitwide
+\parindent=100pt                
+\let\usedvng=\Largedvng      % for 1 column     
+\pagenumbering{itrans} 
+\def\engtitle#1{\hrule\medskip\centerline{\LARGE #1}}
+\def\itxtitle#1{\medskip\centerline{\LARGEdvng #1}\medskip\hrule}
+\def\endtitles{\medskip\obeyspaceslines}
+%%
+\begin{document}
+\engtitle{.. One Thousand Sentences for Conversation in Sanskrit ..}##
+\itxtitle{.. sa.nskR^ita vyavahAra sAhasrI ..}##\endtitles ##
+       anukramaNikaa ## =  Contents
+
+## 1\. shishhTAchAraH ##  = Common formulas (Good practices)
+## 2\. milanam ##  = Meeting
+## 3\. sarala vAkyAni ##  = Simple sentenes
+## 4\. sAmAnya vAkyAni ##  = Ordinary sentences
+## 5\. mitra milanam ##  = Meeting the friends
+## 6\. prayANam ##  = Journey
+## 7\. pravaasataH pratinivartanam ##  = On Arrival
+## 8\. chhAtrAH ##  =  Students
+## 9\. parIxA  ##  = Examination
+## 10\. chalanachitram ##  = Film
+## 11\. shixakaH ##  = Teacher
+## 12\. striyaH ##  = Women
+## 13\. pAkaH ##  = cooking.
+## 14\. veshhabhUshhaNAni ##  = Dress, jewellery
+## 15\. kAryAlayaH ##  = Office
+## 16\. Arogyam ##  = Health
+## 17\. samayaH ##  = Time
+## 18\. dUravANI ##  = Telephone
+## 19\. vANijyam ##  = Commerce
+## 20\. vAtAvaraNam ##  = Weather
+## 21\. gR^ihasambhAshhaNam ##  = Domestic
+## 22\. pitaraH putrAH cha ##  = Fathers/sons/mothers
+## 23\. mAtApitaraH ##  = Parents
+## 24\. sutAH ##  = Children
+## 25\. saN^kIrNa vAkyAni ##  = Miscellaneous sentences
+## 26\. atithiH ##  = Guests
+## 27\. shubhAshayAH ##  = Greetings
+
+\newpage
+          ## sa.nskR^ita vyavahAra sAhasrI ##
+One Thousand Sentences for Conversation in Sanskrit 
+The book sanskRita-vyavahAra-sAhasrI is published and copyrighted by
+Pallava Prakashan,
+Bangalore, India.  For more details contact Aksharam, 8th Cross,
+Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
+
+\section{## 1\. shishhTAchAraH ##  = Common formulas (Good practices)}
+
+## hariH OM ##!## ## = Hello !
+## suprabhaatam | ## = Good morning.
+## namaskaaraH/namaste | ## = Good afternoon/Good evening.
+## shubharaatriH | ## = Good night.
+## dhanyavaadaH | ## = Thank You.
+## svaagatam | ## = Welcome.
+## kshamyataam | ## = Excuse/Pardon me.
+## chintaa maastu | ## = Don't worry.
+## kR^ipayaa | ## = Please.
+## punaH milaamaH | ## = Let us meet again.
+## astu | ## = All right./O.K.
+## shrIman | ## = Sir.
+## maanye/aarye | ## = Lady.
+## saadhu saadhu/samiichiinam | ## = Very good.
+
+\section{## 2\. milanam ##  = Meeting}
+
+## bhavataH nAma kiM ? ## = What is your name? (masc.)
+## bhavatyAH nAma kim ? ## = What is your name? (fem.)
+## mama nAma  ##fill## | ## =  My name is fill
+## eshhaH mama mitraM  ##fill## | ## = This is my friend fill
+## eteshhAM vishhaye shrutavAn ## = I have heard of them
+## eshhA mama sakhI  ##fill## | ## = This is my friend fill (fem.).
+## bhavAn kiM ##(##udyogaM##)## karoti ? ## = What do you do? (masc.)
+## bhavatI kiM ##(##udyogaM##)## karoti?  ## = What do you do? (fem.)
+## ahaM adhyApakaH asmi | ##  = I am a teacher (masc.)
+## aham adhyApikA asmi  | ## =  I am a teacher.(fem.)
+## adhikArI ## = Officer;
+##  uTTaN^kakaH ## = Typist
+## ta.ntraGYaH ## = Engineer;
+##  prAdhyApakaH ## = Professor
+## lipikaH ## = Clerk
+## nyAyavAdI ##= lawyer
+## vikrayikaH ## = Salesman;
+## upanyAsakaH ## = Lecturer
+
+## ahaM yantrAkAre kAryaM karomi | ## = I work in a factory.
+
+## kAryAlaye ## = in an office;
+## mahAvidyAlaye ## = in a college
+## vittakoshhe ## = in a bank;
+## chikitsAlaye ## = in a hospital
+## prauDhashAlAyAM ## = in a high school;
+## yantrAkAre ## = in a factory
+
+## bhavAn.h/bhavatI kasyAM kakshyAyAM paThati ? ## = Which class are you in?
+## ahaM navamakakshyAyAM paThAmi | ## = I am in Std.IX.
+## ahaM  \.\.\. kakshyAyAM paThAmi . ## = I am in I/II/III/B.Sc . class.
+## bhavataH grAmaH ? ## = Where are you from?
+## mama grAmaH  ##fill## | ## = I am from fill
+## kushalaM vA ? ## = How are you ?
+## kathamasti bhavAn ? ## =  How are you ?
+## gR^ihe sarve kushalinaH vA ? ## = Are all well at home?
+## sarvaM kushalam | ## = All is well.
+## kaH visheshhaH ? ##(## kA vArtA ?##)## ## = What news?
+## bhavatA eva vaktavyam | ## = You have to say.
+## ko.api visheshhaH ? ## = Anything special?
+## bhavAn ##(##bhavatI##)## kutaH Agachchhati ? ## = Where are you coming from?
+## ahaM shAlAtaH##,## gR^ihataH##,## ....taH ##  = I am coming from school/house/....
+## bhavAn.h/bhavatI kutra gachchhati ? ## = Where are you going?
+## bhavati vA iti pashyAmaH | ## = Let us see if it can be done.
+## GYAtaM vA ? ## = Understand ?
+## kathaM AsIt ? ## = How was it?
+## aN^gIkR^itaM kila ? ## = Agreed?
+## kati apekshitAni ? ## = How many do you want?
+## adya eva vA ? ## = Is it today?
+## idAnIM eva vA ? ## = Is it going to be now?
+## AgantavyaM bhoH | ## = Please do come.
+## tadarthaM vA ? ## = Is it for that ?
+## tat kimapi mAstu | ## = Don't want that.
+## na dR^ishyate ? ## = Can't you see?
+## samAptaM vA ? ## = Is it over?
+## kasmin samaye ? ## = At what time?
+## tathApi ## = even then
+## AvashyakaM na AsIt | ## = It was not necessary.
+## tishhThatu bhoH | ## = Be here for some more time.
+## smarati kila ? ## = Remember, don't you?
+## tathA kimapi nAsti | ## = No, it is not so.
+## kathaM asti bhavAn ?  ## = How are you?
+## na vismaratu | ## = Don't forget.
+## anyachcha ## = besides
+## tadanantaram ## = then
+## tAvadeva kila ? ## = Is it only so much?
+## mahAn santoshhaH | ## = Very happy about it.
+## tat tathA na ? ## = Is it not so?
+## tasya kaH arthaH ? ## = What does it mean?
+## AM bhoH | ## = Yes, Dear, Sir.
+## evameva ## = just
+## ahaM devAlayaM/kAryAlayaM/vipaNiM gachchhAmi ## = I am going to temple/office/market.
+## kiM chirAd darshanaM ? ## = What is the matter ? You are not seen these days.
+
+## bhavantaM kutrApi dR^ishhTavAn .## = I remember to have seen you somewhere.
+## bhavAn sambhAshhaNashibiraM AgatavAn vA ? ## = Have you come to the
+  conversation camp ? Note:In the place of  yushhmad shabdaH (tvam.h), here
+  bhavat shabdaH (bhavAn.h/bhavatI) is used for the convenience of Samskrita
+  conversation learning. (The verb used for  bhavAn.h/bhavatI is III Person
+  Singular instead of II Person singular).
+## tarhi kutra dR^ishhTavAn ? ## = In that case where have I seen you?
+## tarhi tatraiva dR^ishhTavAn .## = I must have seen you  there in that case.
+
+\section{## 3\. sarala vAkyAni ##  = Simple sentenes}
+
+## tathaiva astu | ## = Let it be so/so be it.
+## jAnAmi bhoH | ## = I know it.
+## Am.h##,## tat satyam | ## = Yes,that is right.
+## samIchInA sUchanA | ## = A good suggestion indeed.
+## kiMchit eva | ## = A little.
+## kimarthaM tad na bhavati ? ## = Why can't that be done ?
+## bhavatu nAma | ## = Leave it at that.
+## oho ##!## tathA vA ? ## = Oh! Is that so ?
+## evamapi asti vA ? ## = Is it like this ?
+## atha kim ? ## = Then ?
+## naiva kila ##!## ## = No
+## bhavatu ##!## ## = Yes
+## Agachchhantu | ## = Come in.
+## upavishantu | ## = Please sit down.
+## sarvathA mAstu | ## = Definitely no.
+## astu vA ? ## = Can that be so ?
+## kimarthaM bhoH ? ## = Why ?
+## prAptaM kila ? ## = You have got it, haven't you ?
+
+\section{## 4\. sAmAnya vAkyAni ##  = Ordinary sentences}
+
+## prayatnaM karomi | ## = I will try.
+## na shakyate bhoH | ## = No, I cant.
+## tathA na vadatu | ## = Don't say that.
+## tatra ko.api sandehaH nAsti | ## = There is no doubt about it.
+## tad ahaM na GYAtavAn | ## = I didn't know that.
+## kadA dadAti ? ## = When are you going to give me ?
+## ahaM kathaM vadAmi  kadA iti  ? ## = How can I say when ?
+## tathA bhavati vA ? ## = Can that be so ?
+## bhavataH samayAvakAshaH asti vA ? ## = Are you  free ?
+## adya bhavataH kAryakramaH kaH ? ## = What are your programmes for today ?
+## are ##!## pAdasya / hastasya kiM abhavat ? ## = Oh! What happened to your legs/arms?
+## bahudinebhyaH te parichitAH | ## = I have known him for long (shouldn't
+   bethem for him? May be pluralte  is used for a VVIP))
+## tasya kiyad dhairyaM/dhArshhTyam ? ## = How dare he is ?
+## bhavAn na uktavAn eva | ## = You  have not  told  me ..
+## ahaM kiM karomi ? ## = What  can  I do  ?
+## ahaM na jAnAmi | ## = I don't know.
+## yathA bhavAn ichchhati tathA | ## = As you  wish/say.
+## bhavatu##,## chintAM na karotu ## = Yes,  don't  bother.
+## tena kimapi  na sidhyati |  ## = There  is no  use/nothing happens
+         on account of  that.
+## saH sarvathA aprayojakaH | ## = He is good  for nothing.
+## punarapi ekavAraM prayatnaM kurmaH | ## = Let us try  once more.
+## maunameva uchitam | ## = Better  be quiet.
+## tatra ahaM  kimapi na vadAmi | ## = I do not  want to say anything in this
+         regard/No comments, please/I  must think before I say anything.
+## tarhi samIchInam | ## = O.K . if that  is so.
+## evaM chet katham ? ## = How to  get on, if it is  so  ?
+## mAM kiJNchit smArayatu | ## = Please remind me.
+## taM ahaM samyak jAnAmi | ## = I know  him well.
+## tadAnImeva uktavAn  kila ? ## = Haven't I told you already ?
+## kadA uktavAn bhoH ? ## = When  did you say so ?
+## yatkimapi bhavatu | ## = Happen what may.
+## saH bahu samIchInaH ## = He is  a  good fellow.
+## saH bahu  rUkshaH | ## = He  is very rough.
+## tadvishhaye chintA mAstu | ## = Don't worry  about  that.
+## tathaiva iti na niyamaH  | ## = It is not  like that.
+## kartuM shakyaM##,## kiJNchit samayaH apekshate | ## = I/We can do it,
+         but require time.
+## etAvat api kR^itavAn ##!## ## = At least he has done this much !
+## drashhTuM eva na shakyate | ## = Can't see it.
+## tatraiva kutrApi syAt | ## = It may be somewhere there.
+## yathArthaM vadAmi | ## = I am  telling the truth.
+## evaM bhavituM  arhati | ## = This is O.K./all right.
+## kadAchit evamapi syAt | ## = It may be like  this sometimes.
+## ahaM tAvadapi na jAnAmi vA ? ## = Don't I know that much ?
+## tatra gatvA kiM karoti ? ## = What  are you  going to do there ?
+## punaH Agachchhantu | ## = Come again.
+## mama kimapi kleshaH nAsti | ## = It  is no trouble (to me).
+## etad kashhTaM na  | ## = This is  not  difficult.
+## bhoH##,## AnItavAn vA  ? ## = Have you brought it ?
+## bhavataH kR^ite  kaH uktavAn ? ## = Who told you this ?
+## kiJNchidanantaraM Agachchhet | ## = He/It may come sometime later.
+## prAyaH tathA na syAt  | ## = By and large,  it may  not  be so.
+## chintA mAstu##,## shvaH dadAtu | ## = It is no bother, return it tomorrow.
+## ahaM  punaH sUchayAmi | ## = I will let  you  know.
+## adya AsIt vA ? ## = Was  it today ?
+## avashyaM AgachchhAmi | ## = Certainly, I will  come.
+## nAgarAjaH asti vA ? ## = Is Nagaraj in ?
+## kimarthaM tat evaM abhavat ? ## = Why did it happen so ?
+## tatra AsIt vA ? ## = Was it there ?
+## kimapi uktavAn vA ? ## = Did you say anything ?
+## kutaH AnItavAn ? ## = Where  did you bring it from ?
+## anyat kAryaM kimapi nAsti | ## = Don't have any other work.
+## mama vachanaM shR^iNotu  | ## = Please listen to me.
+## etat satyaM kila ? ## = It is true, isn't it ?
+## tad ahaM api jAnAmi | ## = I know it myself.
+## tAvad AvashyakaM na | ## = It is not needed so badly.
+## bhavataH kA hAniH  ? ## = What loss is it to  you ?
+## kimarthaM etAvAn vilambaH ? ## = Why are  you late ?
+## yatheshhTaM asti | ## = Available in  plenty.
+## bhavataH abhiprAyaH kaH ? ## = What do you say about it ?
+        What is your opinion ?
+## asya kiM kAraNam ? ## = What is the reason for this ?
+## svayameva karoti vA ? ## = Do you do it yourself ?
+## tat na rochate ? ## = I don't like it.
+## uktaM eva vadati saH | ## = He  has been  repeating the same thing.
+## anyathA bahu kashhTam | ## = It will be a big botheration if it is  not so.
+## kimarthaM pUrvaM na uktavAn ? ## = Why didn't you say it earlier ?
+## spashhTaM na jAnAmi | ## = Don't know exactly.
+## nishchayaH nAsti | ## = Not  sure.
+## kutra AsIt bhavaan ? ## = Where were you ?
+## bhItiH mAstu | ## = Don't get frightened.
+## bhayasya kAraNaM nAsti | ## = Not to fear.
+## tadahaM bahu ichchhAmi ## = I like that very much.
+## kiyat lajjAspadam ? ## = What a  shame ?
+## saH mama doshhaH na | ## = It is not my fault.
+## mama tu AkshepaH nAsti | ## = I have no objection.
+## saH shIghrakopI  | ## = He is short-tempered.
+## tIvraM mA parigaNayatu | ## = Don't take it seriously.
+## AgataH eshha.avarAkaH | ## = Camped here.(?)
+## yukte samaye AgatavAn | ## = you have come at the right time.
+## bahu jalpati bhoH | ## = He talks too much.
+## eshhA kevalaM ki.nvadantI | ## = It is just gossip.
+## kimapi na bhavati | ## = Nothing happens.
+## evameva AgatavAn | ## = Just came to call on you.
+## vinA kAraNaM kimarthaM gantavyam ? ## = Why go there unnecessarily ?
+## bhavataH vachanaM satyam | ## = You are right.
+## mama vachanaM kaH shR^iNoti ? ## = Who listens to me ?
+## tadA tad na sphuritam | ## = It did not flash me then.
+## kimarthaM tAvatI chintA ? ## = Why so much botheration ?
+## bhavataH kiM kashhTaM asti ? ## = Tell me, what your trouble is ?
+## chhe##,## evaM na bhavitavyaM AsIt | ## = Tsh,it  should not have happened.
+## anyathA na chintayatu | ## = Don't mistake me.
+
+\section{## 5\. mitra milanam ##  = Meeting the friends}
+
+## namonamaH | ## = Good morning/afternoon/evening
+## kiM bhoH##,## darshanameva nAsti ##!## ## = Hello, didn't see you for long !
+## naiva##,## atraiva saJNcharAmi kila ##!## ## = No, I have been moving about right here !
+## kiM bhoH##,## vArtA eva nAsti ? ## = Hello, not to be seen for a long time !
+## kiM bhoH##,## ekaM patraM api nAsti ? ## = Hey, You haven't even written a letter !
+## vayaM sarve vismR^itAH vA ? ## = You have forgotten us all, Haven't you ?
+## kathaM vismaraNaM bhavati bhoH ? ## = How can I forget you ?
+## bhavataH saN^ketaM eva na jAnAmi sma | ## = I didn't know your address.
+## mahAjanaH sa.nvR^ittaH bhavAn ##!## ## = you have become a big man !
+## bhavAn eva vA ##!## dUrataH na GYAtam | ## = Is it you ? I couldn't
+        recognise you from a distance.
+## hyaH bhavantaM smR^itavAn | ## = I remembered you yesterday.
+## kiM atra Agamanam ? ## = What made you come here ?
+## atraiva kiJNchit kAryaM asti | ## = I have some work here.
+## tvaritaM kAryaM AsIt | ataH AgatavAn | ## = I am here as I have some urgent work.
+## bahukAlataH pratIxAM karomi | ## = I have been waiting for you  for a long time.
+## yAnaM na prAptaM##,## ata eva vilambaH | ## = Could not get the bus,hence late.
+## Agachchhatu bhoH##,## gR^ihaM gachchhAmaH | ## = Come, let us go home.
+## idAnIM vA##,## samayaH nAsti bhoH | ## = Now? No time, you know.
+## shvaH sAyaM milAmaH vA ? ## = Shall we meet tomorrow evening ?
+## avashyaM tatraiva AgachchhAmi | ## = Ill come there without fail.
+## idAnIM kutra udyogaH ? ## = Where do you work now ?
+## yantrAkAre udyogaH | ## = I work in a factory.
+## grAme adhyApakaH asmi | ## = I am a teacher in a village.
+## idAnIM kutra vAsaH ? ## = Where are you put up ?
+## eshhaH mama gR^ihasaN^ketaH | ## = This is my address.
+## yAnaM AgataM##,## AgachchhAmi | ## = Bus has come, bye, bye.
+## astu##,## punaH pashyAmaH | ## = OK . Let us meet again.
+## punaH asmAkaM milanaM kadA ? ## = When shall we meet again ?
+## punaH kadA milati bhavAn ? ## = When are you going to meet me ? (again)
+## taddine kimarthaM bhavAn na AgatavAn ? ## = Why didn't you come that day ?
+## vayaM AgatavantaH eva | ## = We have already arrived.
+## bhavataH samIpe saMbhAshhaNIyaM asti | ## = I have something to talk to you about.
+## bhavAn anyathA gR^ihItavAn | ## = You have mistaken me.
+## bhavantaM bahu pratIxitavAn | ## = I very much expected you.
+## bahukAlataH tasya vArtA eva nAsti | ## = No news from him for days.
+## bhavataH patraM idAnIM eva labdham | ## = I have just received your letter.
+## kiJNchiddUraM ahamapi AgachchhAmi | ## = I will walk with you for some distance.
+## militvA gachchhAmaH | ## = Let us go together.
+## tishhThatu bhoH##,## ardhArdhaM kAphI pibAmaH | ## = Wait, lets have a
+   by-two coffee  (It appears to mean sharing one cup of coffee
+   between two persons)
+## astu##,## pibAmaH | ## = Fine, let us have it.
+## sthAtuM samayaH nAsti | ## = No time to stay.
+## gamanAt anuxaNameva patraM likhatu | ## = Write as soon as you reach there.
+## punaH kadAchit pashyAmi | ## = Meet you again.
+## yadA kadA vA bhavatu##,## ahaM siddhaH | ## = I am ready any day.
+## teshhAM kR^ite mama shubhAshayAn nivedayatu | ## = Convey my good wishes
+      to them/*him(Only if that person is a VIP).
+## kiM bhoH##,## evaM vadati ? ## = Hey, why do you say so ?
+## kiJNchit kAlaM tishhThatu | ## = Please wait for some time.
+## bhavAn eva parishIlayatu | ## = Think about it, yourself.
+## atra patrAlayaH kutra asti ? ## = Where is the post office, here ?
+## kiyaddUre asti ? ## = How far is it ?
+## vittakoshhaH kiyaddUre asti ? ## = How far is the bank ?
+## kimarthaM evaM tvarA ##(##saMbhramaH##)## ? ## = Why so much of confusion ?
+## ito.api samayaH asti kila ? ## = There is still time, isn't it ?
+## sarvasya api mitiH bhavet | ## = There should be some limit for everything.
+## kiyad iti dAtuM shakyam ? ## = How much can I give him ?
+## kasmin samaye pratIxaNIyam ? ## = When shall I expect ?
+## gR^ihe upavishya kiM karoti ? ## = What are you going to do by sitting at home ?
+## bhavataH parichayaH eva na labdhaH | ## = Could not recognize you.
+## kiM bhoH##,## bahu kR^ishaH jAtaH ? ## = Hey, You have become very weak.
+## avashyaM mama gR^ihaM Agantavyam | ## = Please do call on us.
+## saH sarvatra darvIM chAlayati | ## = He pokes his nose everywhere.
+## yathA bhavAn ichchhati | ## = I am game for whatever you say.
+## parihAsAya uktavAn bhoH | ## = I said it in fun, You know.
+## eshhaH bhavataH aparAdhaH na | ## = It is not your fault.
+## naiva##,## chintA nAsti | ## = No, no trouble/botheration.
+## vayaM idAnIM anyadgR^ihe smaH | ## = We live in a different home now/Changed our residence.
+## bhavAn mama apexayA jyeshhThaH vA ? ## = Are you elder to me ?
+## oho##,## mama apexayA kanishhThaH vA ? ## = Younger to me, is it ?
+## bhavAn vivAhitaH vA ? ## = Are you married ?
+## naiva##,## idAnImapi ekAkI | ## = No, still a bachelor.
+## bhavataH pitA kutra kAryaM karoti ? ## = Where does your father work ?
+## saH varshhadvayAt pUrvameva nivR^ittaH | ## = He retired two years ago.
+## saH vR^iddhaH iva bhAti | ## = He looks aged.
+## bhavantaH sarve sahaiva vasanti vA ? ## = Do all of you live together ?
+## naiva##,## sarve vibhaktAH ## = No, we live separately.
+## bhavataH vayaH kiyat ? ## = How old are you ?
+## bhavantaH kati sahodarAH ? ## = How many brothers are you ?
+## vayaM Ahatya ashhTajanAH | ## = We are eight.
+## bhavAn eva jyeshhThaH vA ? ## = Are you the eldest ?
+## mama ekaH agrajaH asti | ## = I have an elder brother.
+## saH idAnImapi bAlaH | ## = He is still a boy.
+## bhavataH anujAyAH kati varshhANi ? ## = How old is your younger sister ?
+## bhavAn mA dadAtu##,## mA svIkarotu | ## = Neither give, nor take anything.
+## anyaM kamapi na pR^ichchhatu | ## = Don't ask anyone except me.
+## tarhi sarvaM dAyitvaM bhavataH eva | ## = In that case the entire responsibility is yours.
+## sarvatra agre sarati | ## = He takes the initiative in everything.
+## bhavantaM gR^ihe eva pashyAmi | ## = I will see you in your house.
+## saH nishhThAvAn | ## = He is very orthodox.
+## yAvadahaM pratyAgachchhAmi##,## tAvad pratIxAM karotu | ## = Wait till I come.
+## dvayoH ekaH Agachchhatu | ## = Either of the two come.
+## tasya kR^ite vishhayaH niveditaH vA ? ## = Have you informed him about the news?
+## tasya kR^ite saH atyantaM prItipAtram | ## = He is closely related to him.
+## bhavatA etad na kartavyam | ## = You should not do this.
+## yadi saH syAt \.\.  ## = Had he been here ...
+## avashyaM AgantavyaM##,## na vismartavyam | ## = Don't forget, please do come.
+## kiyat kAlaM tishhThati ? ## = How long will you be here?
+## eshhA vArtA mama karNamapi AgatA | ## = I have heard of this news.
+## saH stokAt muktaH | ## =  He escaped narrowly.
+## bhavantaM drashhTuM saH punaH Agachchhati kila ?  ## = He is going to come back to see you. Isn't he ?
+## ahaM kimarthaM asatyaM vadAmi ? ## = Why should I tell a lie ?
+## bhavAn api evaM vadati vA ? ## = Of all the people are you going to say this ?
+## bhavAn evaM kartuM arhati vA ? ## = Can you do this ?
+## bhavAn gachchhatu##,## mama kiJNchit kAryaM asti | ## = You proceed, I have some work.
+## vR^ithA bhavAn chintAM karoti | ## = You just worry unnecessarily.
+## daivechchhA tadA AsIt.h##,## kiM kurmaH ? ## = It was Gods will . What shall we do ?
+## ahaM anyad uktavAn.h##,## bhavAn anyad gR^ihItavAn | ## = I told you one
+    thing . You understood it differently.
+## etAvad anR^itaM vadati iti na GYAtavAn | ## = I never expected that he would tell a lie.
+## pramAdataH sa.nvR^ittam.h##,## na tu buddhyA | ## = I did not do it purposely . It was just accidental.
+## eshhaH ekaH shaniH | ## = This fellow is a bugbear.
+## bhavaduktaM sarvamapi aN^gIkartuM na shakyam | ## = I cannot agree with all you say.
+## ahaM gantuM na shaknomi | ## = I cannot go.
+## vishhayasya vardhanaM mAstu | ## = Don't escalate the matter.
+## sarve.api palAyanashIlAH | ## = All these fellows take to their heels in the face of danger.
+## asambaddhaM mA pralapatu | ## = Don't talk foolishly.
+## sarvasya api bhavAn eva mUlam | ## = You are the root cause of all these.
+## sulabhena tasya jAle patitavAn | ## = He fell into his trap easily.
+## asmAkaM milanAnantaraM bahu kAlaH atItaH | ## = It is a long time since we met.
+## idAnIM AgantuM na shakyate | ## = I cannot come now.
+## bhavAn api aN^gIkaroti vA ? ## = Do you agree ?
+## bhavAn api vishvAsaM kR^itavAn ? ## = Did you believe that ?
+## saH vishvAsayogyo vA ? ## = Is he trustworthy ?
+## kiJNchit sAhAyyaM karoti vA ? ## = Would you mind helping me a bit ?
+## samayaH kathaM atishIghraM atItaH ##!## ## = How quickly the time passed !
+## yukte samaye AgatavAn | ## = You have come at the right time.
+## eka nimeshhaM vilambaH chet ahaM gachchhAmi sma | ## = I would have left if you were late by a minute.
+## ahamapi bhavatA saha AgachchhAmi vA ? ## = Shall I come with you ?
+## kiJNchit kAlaM dvichakrikAM dadAti vA ? ## = Would you mind lending me
+       your bicycle for a few minutes ?
+## idAnIM mayA api anyatra gantavyam | ## = I have to go somewhere now.
+## bhavAn svakAryaM pashyatu | ## = You mind your business.
+## shIghraM pratyAgachchhAmi | ## = Ill be back in a short while.
+## AvashyakaM chet shvaH AnayAmi | ## = If you want it, I shall bring it tomorow.
+##  mAstu  ityukte.api saH na shR^iNoti | ## = I said no,but he doesn't listen to me.
+
+\section{## 6\. prayANam ##  = Journey}
+
+## chITikAM kutra krINAmi ? | ## = Where shall I buy a ticket ?
+## shIghraM Agachchhatu##,## yAnaM gachchhati | ## = Come quickly, the bus is about to start.
+## idAnIM eva ekaM yAnaM gatam | ## = A bus left just a few minutes ago.
+## ahaM bhavataH pArshve upavishAmi | ## = Ill sit beside you.
+## kiJNchit samaJNjanaM kurmaH | ## = Let us adjust a bit.
+## mahAn janasammardaH | ## = Terrible rush.
+## parivartaM dadAtu | ## = Give me the change.
+## agre gachchhatu | ## = Go forward.
+## kadA vA nirgachchhati ? | ## = What time does it start ?
+## shIghraM avataratu | ## = Get off quickly.
+## agrimaM nisthAnaM asmAkaM vA ? | ## = Is the next station ours ?
+## malleshvarayAnasya kA sa.nkhyA ? | ## = Which bus (Route No.) goes to Malleswaram?
+## kiMsa.nkhyAkaM yAnaM jayanagaraM gachchhati ? | ## = Which bus goes to Jayanagar ?
+## phalakamapi nAsti##,## kimapi nAsti | ## = No signboard, nothing.
+## aye##,## pAdapathe Agachchhatu | ## = Hey, walk on the footpath.
+## malleshvaraM gantuM kaH mArgaH ? | ## = Which is the way to Malleswaram ?
+## bahudUre asti vA ? | ## = Is it very far ?
+## eshhaH saN^ketaH kutra iti jAnAti vA ? | ## = Could you possibly tell
+        me where this address/place is ?
+## itaH kevalaM dashanimeshhANAM gamanam | ## = It is just ten minutes walk from here.
+## yAnaM na labdham | ## = Missed the bus.
+## yAnasya nirgamanAya ito.api ardhaghaNTA asti | ## = It is still half an hour before the bus starts.
+## yAnaM dashavAdane Agachchhati | ## = The bus arrives at 10 0clock.
+## paJNchavAdane ekaM yAnaM asti | ## = There is a bus at 5 0clock.
+## yAnaM tadAnIM eva Agatya sthitam | ## = Bus has already arrived at the platform.
+## AraxaNaM nAsti | ## = No reservation, please.
+## evameva agre gachchhantu | ## = Go just along this road.
+## atraiva kutrachit syAt.h##,## anveshhaNaM kurmaH | ## = It will be somewhere here . Let us search for it.
+## tatraiva asti | tatraiva syAt | ## = It is there./It might be there.
+## ahaM na jAnAmi##,## anyaM pR^ichchhatu | ## = I don't know, ask someone else, please.
+## bhavAn shIghraM na gachchhati chet yAnaM na milati | ## = If you do not walk faster, you will miss the bus.
+## eshhaH mArgaH kutra gachchhati ? | ## = Where does this path lead to ?
+## bhavAn AraxaNaM kR^itavAn vA ? | ## = Have you reserved your seat ?
+## sarvaM svIkR^itavAn kila ? | ## = You have taken everything, haven't you ?
+## kR^ipayA sarvabandhakaM svIkarotu | ## = Please take your hold-all.
+## syUtam ## = the bag.
+## etad ## = this.
+## chITikAm ## = the ticket.
+## yAnasyUtam ## = the air bag.
+## yAnapeTikAm ## = the suitcase.
+## vanitAsyUtam .## = the vanity bag.
+## dhanavishhaye jAgarUko bhavatu | ## = Be careful with your money.
+## tataH AgantuM etAvAn vilambaH vA ? | ## = Such a long time to come here from there ?
+## ekaM api yAnaM na Agatam | ## = Not a single bus has come.
+## shhashhTisa.nkhyAkaM yAnaM gataM vA ? | ## = Has Route 60 bus  gone ?
+## ahaM idAnIM eva AgatavAn | ## = I have just arrived.
+## kIdR^ishaH mArgaH ayam  ##!## | ## = What a road !
+
+\section{## 7\. pravaasataH pratinivartanam ##  = On Arrival}
+
+## kadA AgatavAn ? ## =  When did you come ?
+## adya prAtaH AgatavAn vA ? ## =  Did you come this morning ?
+## kathaM AsIt pravAsaH ? ## =  How was the journey ?(cf. my remarks on the heading)
+## pravAse vyavasthA samIchInA AsIt vA ? ## =  How were all the arrangements during the tour?
+## kati dinAnAm ? ## =  How many days ?
+## ekAkI gatavAn vA ? ## =  Did you go alone ?
+## ekAkI kimartham ? parivArasametaH gatavAn ## =  Why alone ? I wen't with my family.
+## dinatrayaM tatra sthitavAn | ## =  I stayed there for three days.
+## mArgamadhye apaghAtaH abhavat | ## =  There was an accident on the road.
+## visheshhatayA ko.api na vraNitaH ? ## =  No one was seriously injured ?
+## vastUni tAvanti eva vA ? ## =  Only so much luggage ?
+## bahudhA shrAntaH asmi bhoH | ## =  Very tired, you know.
+## trichakrikA kimartham ? ## =  Why rickshaw ?
+## lokayAnena gachchhAmaH | ## =  Lets go by bus.
+## lokayAnena ## =  By bus
+## trichakrikAyAm ## =  In a rickshaw
+## sukhayAnena ## =  By luxury bus
+## pAdAbhyAm ## =  On foot
+## sAmisukhayAnena ## =  By semi-luxury bus
+## sa.nlapantaH ## =  talking
+## kaH pratIxate bhoH ? ## =  Who waits for ?
+## trichakrikAyAM eva gachchhAmaH | ## =  Lets go by rickshaw only.
+## kimarthaM vR^ithA vyayaH iti ? ## =  Why waste money unnecessarily ?
+## bahukAlataH pratIxAM karomi | ## =  I have been waiting for long.
+## kadA prasthitaH ? ## =  When did you start ?
+## kAshIM rAmeshvaraM sarvaM dR^ishhTavAn vA ? ## =  Have you visited Kashi and Rameshvar ?
+## kiyat sundaraM astIti jAnAti vA ? ## =  Do you know how nice it is ?
+## mahad adbhutam | ## =  Fantastic.
+
+\section{## 8\. chhAtrAH ##  =  Students}
+
+## atraiva kalAshAlAyAM paThAmi | ## =  Studying in a college here.
+## siddhatA katham asti ? ## =  How is your preparation ?
+## pAThyabhAgaH eva na samAptaH | ## =  Portions have not been completed.
+## gaNitashravaNamAtreNa mama shirovedanA | ## =  Mathematics is a head-ache to me.
+## gADhaM abhyAsaH vA ? ## =  Studying very hard ?
+## adya kimapi na paThitavAn eva | ## =  Couldn't read much today.
+## mama axarANi na sundarANi | ## =  My handwriting is not good.
+## etAM kAdambarIM paThitavAn vA ? ## =  Have you read this novel ?
+## bahu samyak asti | ## =  It is very interesting.
+## bahu pUrvameva paThitavAn | ## =   I read it long ago.
+## shIghraM paThitvA dadAmi bhoH | ## =  Ill return it early after reading.
+## adya utthAne vilambaH saJNjAtaH | ## =  Got up a bit late today.
+## ahaM gR^ihe eva tyaktvA AgatavAn | ## =  I have left it at home.
+## adya tu virAmaH | ## =  Today is a holiday, anyway.
+## bhavataH vargashixakaH kaH ? ## =  Who is your class teacher ?
+## adya samavastreNa gantavyaM vA ? ## =  Do we have to go in our uniforms today ?
+## yAvat shAlAM gatavAn tAvat gha.nThA tADitA | ## =  The bell went by the time I reached school.
+## shrIman.h##,## antaH AgachchhAmi vA ? ## =  May I come in, sir ?
+## shrIman.h##,## visheshhakaxyAM svIkaroti vA ? ## =  Are you going to take a special class,sir ?
+## lekhanIM ekavAraM dadAti vA ? ## =  May I borrow your pen ?
+## TippaNIM kiJNchit dadAti vA ? ## =  Would you kindly lend me your notes ?
+## hyaH eva girIshaH svIkR^itavAn | ## =  Girish borrowed it yesterday.
+## ahaM taddine vargaM na AgatavAn Asam | ## =  I did not attend the class that day.
+## Agachchhatu bhoH##,## krIDAmaH | ## =  Come on, lets play.
+## paThanIyaM bahu asti bhoH | ## =  I have a lot to read, you know.
+## kiM mama paThanIyaM nAsti vA ? ## =  Do you think I don't have anything to read ?
+## padavI ashItitame varshhe samApitA vA ? ## =  Did you take your degree in the year 1980 ?
+## samyak na smarAmi bhoH | ## =  I do not remember exactly.
+## tishhThatu##,## ahaM smarAmi tat | ## =  Wait, I know it.
+## shvaH Arabhya sahAdhyayanaM kurmaH | ## =  Let us do combined study from tomorrow.
+
+\section{## 9\. parIxA  ##  = Examination}
+
+## parIxArambhaH kadA iti GYAtaH vA ? ## = Do you know when is the examination going to begin ?
+## praveshapatraM svIkR^itaM vA ? ## = Have you taken the admission ticket ?
+## parIxA agre gatA | ## = The examination is postponed.
+## velApatrikA AgatA vA ? ## = Has the examination time table come ?
+## parIxA kathaM AsIt ? ## = How was the exam?
+## prashna patrikA kiJNchit klishhTA AsIt ## = The question paper was a bit tough.
+## atIva sulabhA AsIt | ## = It was very easy.
+## ahaM prathamashreNyAM uttIrNaH | ## = I have passed in I class.
+## hyaH phalitA.nshaH prakaTitaH | ## = The result was announced yesterday.
+## aN^kadvayena prathamashreNI na labdhA | ## = I missed I class by two marks.
+## prashneshhu vikalpaH eva nAsIt | ## = There was no choice at all.
+## phalitA.nshaH shvaH GYAtaH bhavishhyati | ## = The result will be announced tomorrow.
+## rameshaH uttIrNaH vA ? ## = Has Ramesh passed ?
+## ekaM patraM avashishhTaM iti uktavAn | ## = He has told me that he has to complete one paper yet.
+## paThitaM kimapi na smarAmi bhoH | ## = Don't remember what I have read, you know.
+## dashavAraM paThitavAn.h##,## tathApi na smarAmi | ## = I read it ten times, even then I do not remember.
+## prAyashaH dvitIyashreNI labhyeta | ## = Most probably, I will pass in II class.
+## asmAkaM gaNe sarve.api uttIrNAH | ## = Everyone passed in our batch.
+## pratishataM kati aN^kAH prAptAH ? ## = What is the percentage ?
+
+\section{## 10\. chalanachitram ##  = Film}
+
+## mAse kati chitrANi pashyati ? ## = How often do you go to films in a month ?
+## dvivAraM trivAraM vA ? ## = Twice or three times.
+## chitramandiraM pUrNaM AsIt | ## = It was house-full.
+## mahAn sammardaH AsIt | ## = There was a lot of rush.
+## chITikA na labdhA vA ? ## = couldn't you get a ticket ?
+## chitraM kathaM AsIt ? ## = How was the film ?
+## karamuktaM iti dR^ishhTavAn | ## = I just saw that it is tax-free.
+## kaH nirdeshakaH ? ## = Who is the director ?
+## tarhi samIchInaM eva syAt | ## = In that case it should be good.
+## sa.nvAdaH/kathA samIchInA asti | ## = The dialogue/story is good.
+## etad dvitIyavAraM pashyan asmi | ## = I am seeing it for the second time.
+## ekamapi chitraM samyak nAsti | ## = Not a single film is good.
+## parahyaH eva dR^ishhTavAn aham | ## = I saw it the day before yesterday.
+## kevalaM nissAraM##,## jAmitA bhavati | ## = Just bogus, terribly boring.
+## tarhi kimarthaM drashhTavyam ? ## = Why should you see it then ?
+## mayApi ekavAraM drashhTavyam | ## = I must see it once myself.
+## sarve militvA gatavantaH vA ? ## = Did you all go together ?
+## kevalaM dhanaM vyartham | ## = Just waste of money.
+
+\section{## 11\. shixakaH ##  = Teacher}
+
+## bhavataH vetanashreNI kA ? ## = What is your scale of pay ?
+## idAnIM sarvatra samAnA kila ? ## = Now it is uniform everywhere, isn't it ?
+## prAchAryasya AdeshaM dR^ishhTavAn vA ? ## = Have you seen the Principals memo (orders) ?
+## aho##!## tattu sAmAnyam | ## = Oh!leave it . It is common.
+## adhivetanaM labdhaM vA ? ## = Got your increment ?
+## lipikaM dR^ishhTavAn vA? ## = Have you seen the clerk ?
+## evaM chet kathaM jIvAmaH ? ## = How to live in that case ?
+## mahAn kolAhalaH iti shrutavAn | ## = I heard, there was a lot of noise.
+##patrikA paThitA vA ? vetanaM vardhitam | ## = Read the newspaper . A rise in pay is announced.
+## kadA Arabhya anvayaH ? ## = When does it come into effect ?
+## idAnIM kaxyA asti vA ? ## = Do you have classes now ?
+## adya kaxyAM na svIkaromi##,## iti sUchayatu | ## = Tell them, I am not going
+       to take classes today.
+## prAchAryaH AgataH vA ? ## = Has the Principal come ?
+## asmin mAse kati virAmaH ? ## = How many holidays (are there) this month ?
+## parashvaH virAmaH asti vA ? ## = Is there a holiday, the day after ?
+## prashnapatrikA sajjIkR^itA vA? ## = Is the question paper ready ?
+## asmin varshhe phalitA.nshaH katham ? ## = How is the result this year ?
+## etAvantaH aN^kAH kathaM labdhAH iti ? ## = How did he manage to get such high marks ?
+## parIxakANAM audAryam | ## = Examiners large heartedness.
+## parIxA anyA##,## yogyatA anyA ##!## ## = Examination is one thing, ability another.
+## maulyamApanArthaM gachchhati vA ? ## = Are you going for valuation ?
+## maulyamApanaM kutra ? ## = Where is valuation going to be ?
+## asvasthaH api AgatavAn | ## = I am here in spite of being ill.
+## idAnIMtana bAlAstu ##!## ## = The students of the present day !
+## aye atra Agachchhatu ##!## ## = Hey, come here.
+## gaNitasya adhyApakaH asti vA pashyatu | ## = See, if the mathematics teacher is there.
+## te tu bAlAH kila ##!## ## = After all they are students.
+## kiM bhoH samyak paThati kila ##!## ## = You are studying well, aren't you ?
+## sa.nshayaH asti chet pR^ichchhantu ##!## ## = Ask if you have any doubts !
+## GYAtaM kila ##!## ## = Understand !
+## punaH ekavAraM vadatu | ## = Beg your pardon (This means please repeat).
+## ekaM api gaNitaM na kR^itavAn vA  ? ## = Haven't you worked out a single sum ?
+## evaM chet parIxAyAM kiM karoti ? ## = At this rate how are you going to face examination?
+## sevakaM kiJNchit Ahvayatu | ## = Please call the peon.
+## ghaNTA nAditA vA ? ## = Has the bell gone ?
+## TippaNIM likhantu | ## = Please take the notes.
+## eko.api na jAnAti vA ? ## = Does not even one know the answer ?
+## bhavAn GYAtavAn vA ? vadatu kiJNchit | ## = Have you understood? Come on . Repeat.
+## adya etAvadeva paryAptam | ## = Enough for today.
+## asya anuchchhedasya ante samApayAmaH | ## = Let us stop at the end of this paragraph.
+## shvaH etad samyak paThitvA Agantavyam | ## = Read this well when you come tomorrow.
+## gR^ihe kimapi paThanti vA ? ## = Do you read anything at home ?
+## kiM bhoH kolAhalaH | ## = Whaat is the noise there about ?
+## hyaH kiyat paryantaM pAThitavAn ? ## = Where did we stop yesterday ?
+
+\section{## 12\. striyaH ##  = Women}
+
+## gR^ihakAryaM sarvaM samAptaM vA ? ## = Finished your household work ?
+## samAptaprAyam | ## = Yes, finished for all practical purposes.
+## kiM dvitrINi dinAni na dR^ishhTA ##!## ## = Not seen for two or three days ?
+## ahaM mAtR^igR^ihaM gatavatI | ## = I had been to my mothers house.
+## eshhu dineshhu vimalA militavatI vA ? ## = Have you met Vimala recently ?
+## kAryAlayataH tasya Agamana samayaH eshhaH | ## = It is time he comes from the office.
+## mamApi bahu kAryaM asti | ## = I have a lot of work to do myself.
+## atithayaH AgatAH santi | ## = Guests have come.
+## kiJNchit  sharkarAM  dadAti vA ? ## = Would you kindly lend me some sugar ?
+## sharkarAm ## = sugar
+## xIram ## = milk
+## kAphIchUrNam ## = coffee powder
+## supishhTam ## = wheat flour
+## pR^ithukam ## = beaten rice
+## chAlanIm ## = sieve
+## bhavataH mAtaH kiM karoti sma ? ## = What was your mother doing ?
+## adya prAtaH Arabhya bahu kAryANi ## = Ive had a lot of work since morning.
+## teshhAM putryAH vivAhaH nishchitaH iti shrutavAn ## = Their daughters marriage is fixed, I think.
+## varaH videshe asti | ## = The bridegroom is in a foreign country.
+## kanyAyAH kR^ite kiM kiM AbharaNaM dAsyanti ? ## = What jewellery are they going to give the bride ?
+## mR^ittailaM labdhaM vA ? ## = Got kerosene ?
+## mR^ittailaM vikrIyate iti shrutavatI | ## = I heard, they are selling kerosene.
+
+\section{## 13\. pAkaH ##  = cooking.}
+
+## pAkaH samAptaH vA ? ## = Finished cooking ?
+## adya kaH pAkaH ? ## = What cooked today ?
+## bhojanaM abhavat vA ? ## = Have you had lunch ?
+## bhavatyAH gR^ihaM kashchid Agata iva | ## = It seems someone has come to your house.
+## anyat kimapi nAsti kevalaM sAraH | ## = Nothing ewxcept soup.
+## asmat gR^ihe ekaikasya ekaikA ruchiH | ## = In our house every one has his/her different tastes.
+
+\section{## 14\. veshhabhUshhaNAni ##  = Dress, jewellery}
+
+## bhavatyAH shATikA nUtanA vA ? ## = Is your saree new ?
+## naiva##,## gatavarshhe eva krItavatI ## = No, it was brought last year.
+## tathApi nUtanaM iva pratibhAti ## = Still it appears to be new.
+## etAdR^ishI shATikA mama samIpe api asti | ## = I have one saree like this.
+## ahaM nUtanashATikAM krItavatI ## = I have bought a new saree.
+## aJNchalaH bahu samyak asti | ## = The border is very beautiful.
+## imAM kutra krItavatI ? ## = Where did you buy this ?
+## asyAH shATikAyAH anurUpaH cholaH na labdhaH | ## = I could not get a matching blouse for this saree.
+## valayasya vinyAsaH AkarshhakaH asti | ## = The style of the bangles is really attractive.
+## shATikayA sA prauDhA iva dR^ishyate | ## = This saree makes her look taller.
+## pariNAhaH bahu nyUnaH | ## = Width is less.
+## ahaM api ekAM kretuM ichchhAmi | ## = I would like to buy one.
+## bahu sundaraM asti kila etad ? ## = It is very good, isn't it ?
+## bhvatyAH etad yujyate | ## = This suits you well.
+## kiyad dattavatI | ## = How much did you pay ?
+## mumbaItaH mama agrajaH AnItavAn | ## = Brother brought it from Bombay.
+
+\section{## 15\. kAryAlayaH ##  = Office}
+
+## bhavAn kati dinAni virAmaM svIkaroti ? ## = How many days of leave are you taking ?
+## eshhu dineshhu mahAn kAryabhAraH | ## = Of late the weight of work is unbearable.
+## imAM sUchanAphalake sthApayatu | ## = Put this up on the notice board.
+## atra hastA.nkanaM karotu | ## = Sigh here, please.
+## saH virAmaM svIkR^itavAn | ## = He is on leave.
+## asmin vishhaye punaH api chintayAmi | ## = I will think about this again.
+## AgAmi saptAhe mAM pashyatu | ## = See me next week.
+## asmin vishhaye anantaraM vadAmi | ## = Ill tell you about it later.
+## etat ahaM avashyaM smarAmi | ## = Ill certainly remember this.
+## bhavaduktaM sarvaM GYAtavAn bhoH | ## = I have understood what you said.
+## atra tasya eva sarvAdhikAraH | ## = He is all in all here.
+## mama kR^ite kA.api dUravANI AgatA vA ? ## = Any phone calls for me ?
+## bhavataH kR^ite dUravANI AgatA AsIt | ## = There was a phone call for you.
+## bhavAn kasmin sthAne niyuktaH asti ? ## = Which post do you occupy in the office ?
+## eshhaH sarvadA Agatya pIDayati | ## = He troubles me always.
+## idAnIM samayaH atItaH | ## = It is getting late.
+## kR^ipayA shvaH Agachchhatu | ## =  Come tomorrow,please.
+## saH AgatavAn iti smarAmi | ## = I remember, he came here.
+## paJNchavAdanaparyantaM atraiva AsIt | ## = He was here till 5##-##00##-##
+## mAM AhUtavAn vA ? ## = Did you call me?
+## tad vyavasthAM ahaM karomi | ## = I will see to that arrangement.
+## kAryAlayasya samAptiH kadA ? ## = When does your office close ?
+## etadvishhaye shvaH punarapi smArayatu | ## = Remind me about this tomorrow.
+## taM atra AgantuM sUchayatu | ## = Ask him to come here.
+## kimarthaM idAnIM api kAryaM na Arabdham ? ## = Why hasn't the work begun ?
+## anyeshhAM upahAsenaiva kAlaM yApayati | ## = He spends time criticizing othere.
+## mayA kiM karaNIyaM##,## vadatu | ## = Tell me what I should do.
+## ahaM kiM karomi bhoH ? ## = What shall I do ?
+## astu##,## parishIlayAmaH | ## = Be it so, let us see.
+## Agachchhatu##,## kiJNchit kAphIM pibAmaH | ## = Come, lets have a cup of coffee.
+## bhavAn shIghraM pratyAgachchhati vA ? ## = Are you going to be back soon ?
+## kR^ipayA upavishatu | ## = Please, sit down.
+## paJNchanimeshheshhu etad kR^itvA dadAmi | ## = Ill get it done in five minutes.
+## adya saH atra nAsti kila | ## = As you know, he is not here today.
+## saH ekasaptAhAbhyantare Agachchhet | ## = He may be back in a weeks time.
+
+\section{## 16\. Arogyam ##  = Health}
+
+## mama ArogyaM samIchInaM nAsti | ## = I am not well.
+## mahatI pAdavedanA | ## = Terrible leg pain.
+## sAmAnyataH shirovedanA tadA tadA Agachchhati | ## = Generally I get headache now and then.
+## kiJNchit jvaraH iva | ## = Feel a little feverish ...
+## vaidyaM pashyatu | ## = Consult a doctor.
+## mama vamanashaN^kA | ## = I feel like vomitting.
+## vaidyasya nirdeshanaM svIkarotu | ## = Get a doctors advice.
+## kimarthaM kaNThaH avaruddhaH ? ## = Why is there the blocking of the throat ?
+## ahaM atIva shrAntaH | ## = I am very tired.
+## tasya ArogyaM kathaM asti ? ## = How is his health ?
+## adya kiJNchit uttamA ##(##dehasthitiH ##)## | ## = A bit better today.
+## prAtaH Arabhya laghu shirovedanA | ## = Slight head-ache since morning.
+## ArogyaM tAvat samyak nAsti | ## = Somehow, my health is not good.
+## vaidyaM kadA dR^ishhTavAn ? ## = When did you see the doctor last ?
+## utsAhaH eva nAsti bhoH | ## = Don't feel active, you know.
+## hyaH tu svasthaH AsIt | ## = He was all right yesterday.
+## kiM adya ahaM bhojanaM karomi vA ? ## = Shall I have my meals today ?
+## adya jvaraH kathaM asti ? ## = How is the fever today ?
+## yathAvat | ## = As usual.
+## tadA tadA udaravedanA pIDayati kila ? ## = You get stomach-ache now and then, don't you ?
+## jvarapIDitaH vA? kadA Arabhya ? ## = Fever ? Since when ?
+## ayyo##!## raktaM sravati ##!## ## = Oh! Blood is coming out.
+## apaghAte saH jIvitaH ityeva visheshhaH | ## = It is a miracle, he survived the accident.
+## saH chikitsAlaye praveshitaH | ## = He is admitted to the hospital.
+## mama shiraH bhramati iva | ## = I feel giddy.
+
+\section{## 17\. samayaH ##  = Time}
+
+## kaH samayaH ? ## = What is the time?
+## sapAdachaturvAdanam | ## = A quarter past four.
+## dvivAdane avashyaM gantavyaM asti | ## = I must leave at 2##-##
+## trivAdane ekaM yAnaM asti | ## = There is a bus at three.
+## pAdona shhaDvAdane bhavAn milati vA ? ## = Will you meet at a quarter to six ?
+## sArdhapaJNchavAdane ahaM gR^ihe tishhThAmi | ## = I will be at home at half past five.
+## paJNcha Una dashavAdane mama ghaTI sthagitA | ## = My watch stoppped at 5 minutes to 10 oclock.
+## sa.nskR^itavArtAprasAraH sAyaM dashAdhika shhaDvAdane | ## = The Sanskrit news bulletin is at 6##-##10 p.m.
+## sArdhaM dvighaNTAtmakaH kAryakramaH | ## = It is a programme for two and a half hours.
+## shhaDvAdanaparyantaM tatra kiM karoti ? ## = What are you going to do there till six oclock ?
+## shAlA dashavAdanataH kila ? ## = The school is from 10 oclock, isn't   it ?
+## ito.api yatheshhTaM samayaH asti | ## = Still there is a lot of time.
+## saH shhaDvAdanataH saptavAdanaparyantaM yogAsanaM karoti | ## = He does Yogasana from 6 A.M . to 7 A.M.
+## mama ghaTI nimeshhadvayaM agre sarati | ## = My watch goes two minutes fast every day.
+## samaye Agachchhatu | ## = Come in time.
+## are##!## dashavAdanam ##!## ## = Oh! it is 10 oclock.
+## bhavataH AkAshavANI samayaH vA? ## = Is yours the radio time ?
+## idAnIM yathArthaH samayaH kaH ? ## = What is the exact time now ?
+## kimarthaM etAvAn vilambaH ? ## = Why (are you) so late ?
+## idAnIM bhavataH samayAvakAshaH asti vA ? ## = Are you free now? 
+       (Can you spare a few minutes for me ?)
+## ravivAsare kaH dinAN^kaH ? ## = What date is Sunday ?
+## ravivAsare chaturvi.nshatitamadinAN^kaH ? ## = Sunday is 24th ?
+## paJNchadashadinAN^ke kaH vAsaraH ? ## = Which/What day is 15th ?
+## bhavataH shAlA kadA ArabdhA ? ## = When did your school begin ?
+## jUna prathama dinAN^ke | ## = On 1st June.
+## bhavataH janmadinAN^kaH kaH ? ## = Which/What is your date of birth ?
+## ashhTAdasha dasha shhaDashItiH | ## = 18-10-63 (Should be 18-10-86).
+
+\section{## 18\. dUravANI ##  = Telephone}
+
+## hariH om | ## = Hello
+## pratishhThAnasya kAryAlayaH vA ? ## = Is it the Pratishthana office ?
+## rAjumahodayasya gR^ihaM vA ? ## = Is it Mr. Rajus house ?
+## eshhA shhaT shUnya shUnya shUnya chatvAri vA ? ## = Is it 60004 ?
+## kaH tatra ? ##(##kaH saMbhAshhaNaM karoti ?##)## ## = Who is speaking, please ?
+## ahaM kR^ishhNaH | ## = I am Krishna, speaking.
+## kaH apexitaH ? ## = Whom do you want to speak to ?
+## kR^ishhNaH gR^ihe asti vA ? ## = Is Mr. Krishna at home ?
+## xamyatAM##,## saH gR^ihe nAsti | ## = Sorry, he is not at home.
+## kR^ipayA etat kR^ishhNaM sUchayatu | ## = Would you kindly pass this on to Mr . Krishna ?
+## kR^ipayA taM Ahvayati vA ? ## = Would you please call him ?
+## astu##,## ekaxaNaM tishhThatu | ## = Yes, wait a minute, please.
+## kaH dUravANIM kR^itavAn iti vadAmi ? ## = Who shall I say phoned him up ?
+## saH shvaH Agachchhet | ## = He may be back, tomorrow.
+## astu##,## shvaH punaH dUravANIM karomi | ## = O.K . I will ring him up again tomorrow.
+## kiM##,## idAnImapi na AgatavAn vA ? ## = What ? Hasn't he come yet ?
+## tasya dUravANI sa.nkhyA kA ? ## = What is his phone number ?
+## gR^ihe milet vA ? ## = Will he be available at home ?
+## madrAsataH idAnImapi na AgatavAn | ## = Not yet returned from Madras.
+## avashyaM sUchayAmi | ## = Certainly I will inform him.
+## sthApayAmi vA ? ## = Shall I put down the phone ? (Shall I hang up ?).
+## kiJNchit uchchaiH vadatu | ## = Speak louder, please.
+
+\section{## 19\. vANijyam ##  = Commerce}
+
+## rUpyakasya kati phalAni ? ## = How many a rupee ?
+## ekaikasya paJNchavi.nshatipaisAH | ##  = 25 paise  each, please.
+## rUpyakasya paJNcha | ## = Five per  rupee.
+## shuddhaM navanItaM dadAtu | ## = Give me good butter, please.
+## pustakAni samAptAni | ##  = The book is out of stock.
+## etad pustakaM nAsti vA ? ## = Don't you have  this book ?
+## taNDulaH samyak nAsti | ## = The rice is not good.
+## dashapaisAH nyUnAH santi | ##  = The amount is short by 10 paise.
+
+## mama vyavahAraM samApayatu | ## = Please settle my account.
+## bhavataH parIvR^ittiH kathamasti ? ## = How is your business ?
+## tatra gamanaM mAstu bhoH##,## saH bahumUlyaM vadati | ## = He is very expensive, let us not go to him.
+## kR^ipayA deyakaM / prAptipatraM dadAtu | ## = Please give me the bill/receipt.
+## vi.nshatirUpyakANi vA ? tarhi mAstu | ## = Is  it Rs.20 ? Then I don't want it.
+## AvashyakaM AsIt.h##,## parantu bhavAn mUlyaM adhikaM vadati | ## = I wanted it, but you quote a very high price.
+## bhavataH kR^ite iti nyUnamUlyena dadAmi | ## = I am selling it at a lower price to you.
+## pArshvApaNe pR^ichchhatu | ## = Please enquire at the next shop.
+## etAvat nyUnamUlyena anyatra kutrApi na milati | ##  = You can't get it cheaper anywhere else.
+## ekapaJNchAshat rU/ svIkurvantu | ## = Please take Rs.51##-##
+## naiva##,## tatra vivAdaH eva nAsti | ## = No, no haggling, please.
+## etad vastraM kutra krItavantaH ? ## = Where did you buy this cloth ?
+## bhavAn adhikaM ##(##mUlyaM##)## dattavAn | ## = You paid more.
+##  kilo  kR^ite kati ? ## = How much is this per kilo ?
+## phenakasya mUlyaM kiyat ? ## = How much does this soap cost ?
+##  kilo  dAlasya kR^ite kati rUpyakANi ? ## = How much is  the pulse per kilo ?
+## dantaphenaH asti vA ? ## = Have got toothpaste ?
+## tishhThatu##,## dadAmi | ## = Please wait, Ill give you.
+## kati/kiyat dadAmi ? ## = How much shall I give you ?
+## idAnIM mAstu##,## anantaraM AgachchhAmi | ## = Not now, I will come later.
+## etad samIchInaM asti vA ? ## = Is it  good ?
+
+\section{## 20\. vAtAvaraNam ##  = Weather}
+
+## vAyuH eva nAsti | ## = The wind is still.
+## ArAtri vR^ishhTiH AsIt | ## = It rained for the whole night.
+## gharmo gharmaH | ## = Very hot indeed.
+## kiM bhoH ##!## klinnaH asti ##!## ## = You have perspired all over.
+## prAtaH Arabhya evameva vR^ishhTiH | ## = It has been  raining like this since  morning.
+## adya vR^ishhTiH bhavati vA ? ## = Is it going to rain today ?
+## kiM eshhA ushhNatA bhoH ##!## ## = What sultry weather, you know.
+## shaityaM aho shaityaM ##!## ## = It is very cold indeed.
+## mahatI vR^ishhTiH | ##  = Heavy rain.
+## vR^ishhTitaH eva bhayam | ## = I am frightened only of the rain.
+## dine dine shItaM adhikaM bhavati | ## = The cold is increasing day by day.
+## yadvA tadvA vR^ishhTiH | ## = Too much rain/It is raining cats and dogs.
+## vAyuraho vAyuH | ## = Too much of wind/Too windy.
+## atra vAyuH sushhThu vAti | ## = Nice breeze here.
+## bahu aushhNyaM kila ? ## = It is very hot, isn't it ?
+## adya kiJNchit shaityaM adhikam | ##  = It is a bit colder today.
+## bhavataH pradeshe vR^ishhTiH katham ? ## = Have you had rains in your place ?
+## kutrApi vR^ishhTiH nAsti | ## = No sign  of rain anywhere.
+
+\section{## 21\. gR^ihasambhAshhaNam ##  = Domestic}
+
+## adya prAtarAshaH kA ? ## = What have you cooked for breakfast ?
+## adya pAko nAma pAkaH ##(##adyatana pAkaH bahu samyak asti | ## = Todays cooking is really grand.
+## kimarthaM adya ruchireva nAsti | ## = Why dishes are not tasty today ?
+## ruchikaraM nAsti vA ? ## = Aren't they tasty, really ?
+## lavaNaM eva nAsti | ## = No salt at all.
+## vyaJNjane lavaNaM nyUnam | ## = This curry has no salt at all.
+## annaM bahu ushhNam | ## = The rice is very hot.
+## tad kiJNchit pariveshhayatu | ## = Serve the other dish a bit more.
+## jalaM pUrayatu | ## = Get me some water, please.
+## ekachashhakaM jalaM Anayatu | ## = Get me a glass of water, please.
+## kiJNchit vyaJNjanaM pariveshhayatu | ## = Get me some dry curry.
+## annaM ## = rice
+## kvathitam ## = Sambar
+## takram ## = buttermilk
+## vyaJNjanam ## = dry curry
+## sAraH ## = soup
+## upada.nsham ## = pickle
+## tailam ## = oil
+## upasechanam ## = Chutney
+## lavaNam ## = salt
+## ghR^itam ## = ghee
+## parpaTam ## = Pappadam
+## kiM##,## na rochate vA ? ## = Aren't they tasty ? Don't you like them ?
+## lavaNaM kiJNchit adhikam ## = A bit too much of salt in it.
+## kiM amba##,## pratidinaM sAraH eva ? ## = Dear, why, only soup/Rasam every day ?
+## adya api sAraH eva ? ## = Just soup today also ?
+## kiM amba ##!## kiyat pariveshhitavatI ? ## = Dear, you have served a bit too much.
+## kiyad asti tat ? ## = Oh ! That is not much.
+## amba ##!## kiJNchit upada.nshaM pariveshhayatu | ## = Mummy, get me some
+    pickles, please.
+## amba ##!## adya kadA vA bhojanam ? ## = Mummy, What time are you going to
+          serve lunch/dinner today ?
+## sAvadhAnaM pariveshhayatu | ## = Serve slowly, please.
+## adya bhUri bhojanam | ## = Today we have a grand meal.
+## adhikaM jalaM mA pibatu##,## shItaM bhavati | ## = Don't drink too much
+         water . You will catch a cold.
+## anena vyaJNjanaM karaNIyaM AsIt | ## = You should have cooked dry curry
+    with this vegetable.
+## temanaM na pariveshhitavatI eva | ## = You have not served curd sambar at all.
+## punaH ekavAraM pAyasaM pariveshhayatu | ## = May I have a second helping with payasam  ?
+## uttishhThatu##,## bhojanaM kurmaH | ## = Get ready, please, let us have meals.
+## idamidAnIM bhojanaM samAptam | ## = I have just had meals, thank you.
+## ahaM roTikAM na khAdAmi | ## = I do not eat chapathis.
+## roTikA asti chet samIchInaM ##(##abhavishhyat.h##)## | ## = It would have
+     been wonderful had there been chapatis.
+## kiM bhoH##,## bhojanameva na karoti ? ## = Why dear, you do not eat anything ?
+## anne kevalaM pAshhANAH | ## = A lot of stones in the rice.
+## dadhyannaM pariveshhayAmi vA ? ## = Shall I serve curd-rice ?
+## takraM na ichchhati vA ? ## = Don't you want buttermilk ?
+## bhojanaM samyak karoti chet krIDanakaM dadAmi | ## = Eat well, please .
+         I will give  a doll.
+## teshhAM gR^ihe kiM khAditavAn ? ## = What did you eat in their house ?
+## shIghraM bhojanaM karotu##,## vilambaH abhavat | ## = It is getting late, eat quickly.
+## idAnIM mAstu##,## anantaraM dadAmi | ## = Not now, I will give it to you later.
+## kiJNchit vA dadhyannasya bhojanaM karotu | ## = Eat at least a little curd-rice.
+## adya madhurabhaxyaM kim ? ## = What sweets have you prepared today ?
+## bahu madhuram | ## = It is too sweet.
+## amba##,## bubuxA bhavati | ## = Mummy, I am hungry.
+## mama tu idAnIM atIva bubuxA | ## = I am very hungry.
+## bhojanaM siddhaM vA ? shAlAyAH vilambaH bhavati | ## = Have you
+          finished eating? It is getting late for school.
+## bhojanaM kR^itvA nidrAM karotu | ## = Have a nap after meals.
+## astu##,## pariveshhaNaM karomi | ## = Yes, I am going to serve in a minute.
+## kiJNchit svIkarotu | ## = Take a little.
+## mAstu##,## adhikaM bhavati | ## = No, thank you . It is too much for me.
+## pariveshhaNArthaM kiyAn vilambaH ? ## = Dear, how long do you take to serve ?
+## yAvad rochate tAvadeva svIkarotu | ## = Eat only what you can.
+## sarve militvA bhojanaM kurmaH | ## = Let us eat together.
+## ayyo##,## ghR^itaM eva na pariveshhitavatI aham | ## = My goodness ! I
+      haven't served ghee at all.
+## bhavatA vaktavyaM AsIt kila ? ## = Shouldn't you have told me that ?
+## kiyAn vilambaH bhoH##,## shIghraM Agachchhatu | ## = How long do you take,come quickly.
+## saH idAnIM api na AgatavAn vA ? ## = Hasn't he come yet ?
+## sthAlikA sthApitA vA ? ## = Have you laid the table ? (Have you set the plates for meals ?)
+## sthAlikA eva na sthApitA ##!## ## = You haven't laid the table yet !
+## lavaNaM kiJNchit yojayatu##,## samyak bhavati | ## = Add some salt . It will be O.K.
+## hastaM praxAlya upavishatu | ## = Wash (the hand ) before you come for meals.
+## mAstu##,## yatheshhTaM abhavat | ## = No, thank you, I have had enough.
+## saN^kochaH mAstu##,## AvashyakaM chet pR^ichchhatu | ## = Please feel at home.
+    Ask for anything you want.
+## na##,## mama saN^kochaH eva nAsti | ## = No, I do not have any reservations.
+## kiJNchit | ## = A little more.
+## amba##,## atra kiJNchit pariveshhayatu | ## = Mummy, get me some more.
+## kaH lavaNaM AvashyakaM iti uktavAn ? ## = Who has asked for salt ?
+## kvathitApexayA sAraH eva ruchikaraH | ## = The soup is tastier than the sambar.
+## ekaikashaH vadatu nAma | ## = Speak one at a time, please.
+## vinA shabdaM bhojanaM kurvantu nAma | ## = Eat without making too much noise.
+## prathamaH kaH ? saH vA bhavAn vA ? ## = Who is first ? He or you ?
+## pAkaH shItalaM bhavati | ## = Dishes are getting colder.
+## pAkaH tadAnIM eva siddhaH | ## = Lunch/Dinner is ready.
+## vyAgharaNaM kR^itaM chet pAkaH siddhaH | ## = Everything is ready. I have to
+           season the curry, that is all.(?)
+## shAkaH nAsti##,## ahaM kiM karomi ? ## = No vegetables, what can I do ?
+## bhavatI paktuM eva na jAnAti amba ##!## ## = Mummy, you do not know how to cook.
+## hyastanaM vyaJNjanaM kiyat ruchikaraM AsIt ##!## ## = How tasty was yesterdays dry curry !
+## kativAraM uktavAn etad mahyaM na rochate iti ? ## = How many times did I tell
+           you that I don't like it.
+## tathA chet shvaH bhavAn eva pAkaM karotu | ## = In that case you cook the
+           food yourself tomorrow.
+## asya ruchiM pashyatu | ## = Taste this, please.
+## xIraM dUshhitam .## = Milk has become sour.
+## tUshhNIM bhojanaM karotu vA ? ## = Will you eat without comments ?
+## punaH punaH charvaNaM kR^itvA khAdatu | ## = Chew the food well before you swallow it.
+## pariveshhaNaM kR^itaM##,## shIghraM Agachchhatu | ## = Food is already served .
+           Come quickly.
+## bhavAn kimapi na khAditavAn ? ## = You haven't eaten anything.
+## punaH pariveshhayatu | ## = Serve again.
+
+\section{## 22\.  pitaraH putrAH cha ##  = Fathers/sons/mothers}
+
+## etAvatparyantaM kutra gatavAn ? ## = Where had you been so long ?
+## kutrApi na##,## atraiva Asam | ## = I was just here.
+## paThanaM kimapi nAsti vA ? ## = Nothing to read ? (Don't you have anything to read ?)
+## vaktA prashhTA ko.api nAsti vA ? ## = Is there no one to keep you under check ?
+## sahasravAraM uktaM##,## shrutavAn vA ? ## = I told you a thousand times.
+     Did you listen to me ?
+## mama gR^ihapAThaH bahu asti | ## = I have a lot of homework to do.
+## adya eva shulkaM dAtavyaM asti | ## = I have to pay the fees right today.
+## antimadinAN^kaH kadA ? ## = Which is the last date for payment of fees ?
+## adya eva dAtavyaM vA ? ## = Have to pay it right today ?
+## kiM##,## adya dAtavyaM vA ? ## = What, do we have to pay it today ?
+## amba##,## ekaM navInaM yutakaM Avashyakam | ## = Mummy, I would like to have a new shirt.
+## govinda##,## ApaNaM gatvA Agachchhati vA ? ## = Govind, will you go to
+     the shop to get something ?
+## amba##,## veNIbandhaM karotu##,## shAlAyAH vilambaH bhavati | ## = Mummy,
+        twine my plait, it is getting late for school.
+## kaH samayaH iti jAnAti vA ? ## = Do you know what time it is now ?
+## kimarthaM vilambaH ? ## = Why are you late ?
+## pitaraM ekavAraM Ahvayatu | ## = Please ask daddy to come here.
+## bhavataH kR^ite kathanApexayA svayaM karaNaM varam | ## = Better do the work
+       myself rather than asking you to do it.
+## bhavatI anantaraM upavishatu | ## = You sit down a little later.
+## tasya kR^ite chatvAri dattavatI##,## mama kR^ite tu trINi eva ##!## ## = You
+       gave him four, only three to me.
+## sarvaM bhavAn eva khAditavAn vA ? ## = Have you eaten everything yourself ?
+## ekaM kAryaM kativAraM vaktavyam ? ## = How often should I tell you about that ?
+## kutrApi sthApayati##,## anantaraM mAM pR^ichchhati | ## = You misplace it
+    somewhere and come and ask me.
+## bhojanasamaye AhvayAmi##,## idAnIM gachchhatu | ## = I will call you during
+    meal time, off you go now.
+##  tena saha na gachchhatu  iti dashavAraM uktavatI | ## = I have asked you
+    ten times not to go in his company.
+## pArshvagR^ihaM gatvA patrikAM Anayatu | ## = Get me the newspaper from our neighbour.
+## ahaM sarvaM vyavasthitaM sthApayituM##,## saH vyastaM kartum | ## = I keep
+      things in order and he throws everything away.
+## amba##,## kiJNchit sIvanaM karotu | ## = Mummy, stitch this up, please.
+## kR^ipayA etad bahiH xipatu | ## = Please, throw this away.
+## shAkaM kiJNchit kartayitvA dadAtu | ## = Cut the vegetables, please.
+## ekavAraM eva sarvaM vadatu bhavatI | ## = Tell me everything at one go.
+## bhavAn dhImAn.h/kushalaH bAlaH | ## = You are a good boy.
+## amba##,## atra kiJNchit vedanA asti | ## = Mummy, it pains me here.
+## nidrAM karotu##,##samyak bhavishhyati | ## = Sleep well, you will be all right.
+## rAtrau kashhAyaM karomi | ## = Ill make some concoction (medicine) at night.
+## pItvA shayanaM karotu | ## = You may drink it and then sleep.
+## idAnIM gatvA kiJNchit paThatu | ## = Go and read now.
+## kiM##,## idAnIm eva nidrA vA ? ## = What ! feeling sleepy so early ?
+## gaNite dasha aN^kAH eva  iti smarati vA ? ## = Do you remember, you
+        have secured only 10 marks in Mathematics ?
+## amba##,## tAn anyatra paThituM vadatu | ## = Mummy, ask them to read in separate rooms.
+## etAvat dhanaM na paryAptam | ## = This much money is not enough.
+## shirasi tailasamuxaNaM karotu | ## = Please apply oil to my head.
+## nidrayA AndolanaM karoti##,## pashyatu | ## = See, he is dozing.
+## shishuH roditi | ## = The child is crying.
+## saMmArjanaM kR^itavatI vA ? ## = Have you swept the floor ?
+## idAnIM api raN^gavallIM na likhitavatI vA? ## = Haven't you yet drawn designs
+    in front of the house ?
+## kativAraM vaktavyam ? ## = How often should I tell you ?
+## kutra gatavAn ? gR^ihe nAsti vA ? ## = Where has he gone ? Isn't he at home ?
+## pratyuttaraM na vadatu | ## = Don't answer back.
+## uktaM na shrutavAn vA ?  ## = Haven't you listened to what I told you ?
+## adyatana patrikAM dadAtu | ## = Give me todays newspaper.
+## saH AgatavAn.h##,## eshhaH prasthitavAn | ## = He has arrived and this fellow has started/departed.
+## kaTaM prasArayatu | ## = Spread the mat.
+## rajakaH vastraM nItavAn vA ? ## = Has the washerman taken the clothes?
+## vastrANi shushhkayituM prasArayatu | ## = Spread the clothes for drying.
+## gatvA shayanaM karotu | ## = Go to bed and sleep.
+## ekaM AsandaM Anayatu | ## = Bring me a chair.
+## idAnIm api nidrA na AgatA vA ? ## = Haven't you slept yet ?
+## pashyatu##,## kaH shabdaM karoti ? ## = see, who is making that noise ?
+## kimidaM##,## sarvatra avakaraH ? ## = What is this ? It is dirty everywhere.
+## dvAraM pidadhAtu ##(##dvArapidhAnaM karotu##)## | ## = Close the door, please.
+## etad kiJNchitkAlaM gR^ihNAtu | ## = Hold it for some time.
+## madhye sambhAshhaNaM na karotu | ## = Don't butt in when I speak.
+## kolAhalaM mA karotu | ## = Don't make noise, be quiet.
+## dIpAn jvAlayatu | ## = Put on the lights, please.
+## dIpAn nirvApayatu | ## = Put off the lights, please.
+## vyajanaM chAlayatu | ## = Put on the fan,please.
+## bahiH andhakAraH##,## karadIpaM gR^ihItvA gachchhatu | ## = It is dark
+    outside, take the torch with you.
+## avahitamanasA karaNIyam | ## = Do it with some interest, please.
+## shraddhayA karaNIyam | ## = Do it with your heart in it, please.
+## taM yAnaM Aropya Agachchhatu | ## = Please see him on to the bus.
+## pANipAdaM praxAlayatu | ## = Have a wash,please (Wash your hands and feet).
+## kuDmAn yojayatu | ## = Button your shirt, please.
+## ArogyaM nirlaxya mA paThatu | ## = Don't read too much and spoil your health.
+## itaH paraM evaM na kartavyam | ## = Don't do this again.
+## drAviDaprANAyAmena na vadatu##,## sAxAt vadatu | ## = Don't go on beating
+    about the bush, speak plainly.
+## samyak dantadhAvanaM karotu | ## = Brush your teeth well.
+## vinA kAraNaM kupyati | ## = You get angry and shout unnecessarily.
+## vR^ithA kAlaharaNaM karoti | ## = You are wasting time.
+## mAM na kopayatu | ## = Don't enrage me.
+## haThaM mA karotu | ## = Don't be arrogant.
+## kimarthaM bhavAn xubhyati ? ## = Why are you shouting ?
+## prathamaM shiromArjanaM karotu | ## =  Dry your hair first.
+## ArdravastraM na dhArayatu | ## = Don't put on wet clothes.
+## shIghraM snAnaM kR^itvA Agachchhatu | ## = Have your bath quickly.
+## bhANDe jalaM asti vA ? ## = Is there water in the barrel ?
+## AkAshavANIM chAlayatu | ## = Put on the radio, please.
+## vividhabhAratIM yojayatu | ## = Switch on to Vividhabharathi, please.
+## vArtA samAptA vA ? ## = Is the news over ?
+
+\section{## 23\. mAtApitaraH ##  = Parents}
+
+## adya kiJNchitpUrvaM Agachchhanti vA ? ## = Will you come back home a bit
+    early today, dear ?
+## kimarthaM ? kaH visheshhaH ? ## = Why? anything special ?
+## sAyaM Agamanasamaye shAkaM Anayanti vA ? ## = Bring home some leafy vegetable, will you ?
+## ravivAsare tAn AhvayAmaH vA ? ## = Shall we invite them on Sunday ?
+## bAlikA kimapi AvashyakaM iti vadati sma | ## = The girl was asking for something.
+## avashyaM smR^itvA Anayantu | ## = Please bring it without fail.
+## kimarthaM pratidinaM vilambena Agachchhanti ? ## = Why do you come late everyday ?
+## kasmin samaye Agachchhanti adya ? ## = What time will you be back today ?
+## kuJNchikAM pArshvagR^ihe datvA gachchhAmi | ## = I will leave the key with
+    our neighbours.
+## kimiti pade pade Ahvayanti ? ## = Why are you calling me again and again  ?
+## sarvaM tatraiva asti##,## kiJNchit pashyantu | ## = Everything is there .
+        Look for them a bit more carefully, please.
+## bhojanArthaM ko.api visheshhaH ? ## = Any special arrangement for meals ?
+## adya asmAkaM kR^ite kAphI asti vA ? ## = Is there going to be some coffee for us ?
+## idAnIm api snAnaM na kR^itam ? ## = No bath yet ?
+## bhavantaH kila mAstu iti uktavantaH | ## = It is you who said you did not want it.
+## samaye ekamapi/kimapi na milati | ## = You do not get anything when you need it badly.
+## vetanaM labdhaM vA ? ## = Got your salary ?
+## xIrArthaM adya eva dAtavyaM asti | ## = We have to pay the milk-man today.
+## te sarvadA kalahaM kurvanti | ## = They always quarrel.
+## tathA kimarthaM vadati ? ## = Why do you say so ?
+## tatra asti vA nAsti vA iti prathamaM eva drashhTavyam | ## = You have to see
+    first if it is there or not.
+## ahaM kAryAlayaM gachchhAmi | ## = I am going to my office.
+## asya jatulepaM kArayantu | ## = Get this vessel gilted.
+## mArge sauchikaM vichArya gachchhantu | ## = Look up the tailor on your way.
+
+\section{## 24\. sutAH ##  = Children}
+
+## mama lekhanIM svIkR^itavAn vA ? ## = Have you taken my pen ?
+## pitA asti##,## tUshhNIM upavishantu | ## = Daddy is in, be quiet.
+## kR^ipayA manasi paThatu | ## = Read silently, please.
+## bhagini##,## mama kR^ite gaNitaM pAThayati vA ? ## = Sister dear, will you teach me mathematics ?
+## mama shixakaH evaM eva pAThitavAn .## = My teacher has taught one just this way.
+## bhavataH lekhanI kutra ? ## = Where is your pen ?
+## mama chhatraM bhavAn kimarthaM svIkR^itavAn ? ## = Why did you take my umbrella ?
+## tasya kR^ite kimarthaM dattavAn ? ## = Why did you give it to him ?
+## tatkAraNataH idAnIM anubhavatu | ## = Now you suffer on account of that.
+## na##,## ahaM pitaraM sUchayAmi | ## = No, I am going to tell daddy.
+## paThanaM nAsti##,## kimapi nAsti##,## kevalaM aTati | ## = Doesn't read at all, just roams about.
+## bhavataH sarvaM ahaM jAnAmi | ## = I know all your secrets.
+## bhavatI bahu paThati##,## jAnAmi | ## = You read a lot,I know.
+## adya bhavataH mitraM mArge militaH | ## = I met your friend on the way.
+## bhavataH mitraM ahaM militavAn ## = I met your friend.
+## saH kimapi uktavAn vA ? ## = Did he say anything ?
+## parIxA kadA iti smarati kila ? ## = You remember when your examination
+          commences, don't you ?
+## rameshaH bhavantaM Ahvayati | ## = Ramesh is calling ypou.
+## pashyatu##,## nAsikA sravati | ## = Look, you have a running nose.
+## nAsikAM svachchhaM kR^itvA Agachchhatu | ## = Clean your nose, will you ?
+## vaktavyaM AsIt.h##,## karomi sma | ## = You should have told me, I would have done it.
+## aN^kanyA mAstu##,## lekhanyA likhatu | ## = Write with your pen, not with a pencil.
+## tishhThatu##,## yutakaM parivartya AgachchhAmi | ## = Wait, I will just change the shirt.
+## etad yutakaM bahu sampR^iktam | ## = This shirt is a bit too small.
+## aparaM yutakaM evaM nAsti | ## = The other shirt is not so.
+
+\section{## 25\. saN^kIrNa vAkyAni ##  = Miscellaneous sentences}
+
+## uchchatyA ubhAvapi samAnau | ## = Both are of the same height.
+## asmAkaM gR^ihe sarve asvasthAH | ## = Everyone is ill in my house.
+## mashako mashakaH ##!## ## = Too many mosquitoes.
+## matkuNo matkuNaH | ## = Too many bugs.
+## mashakajAlaH kutra ? ## = Where is the mosquito net ?
+## antaH ko.api nAsti vA ? ## = Isn't there any one at home ?
+## dUshhitaH kAlaH | ## = Times have changed for the worse.
+## karmakarAH eva durlabhAH | ## = You don't get labourers at all.
+## mahatI ghorikA bhoH mahArAvasya | ## = This big fellow snores loudly.
+
+\section{## 26\. atithiH ##  = Guests}
+
+## pAnIyaM kiM dadAmi ? ## = What would you like to have for a drink ?
+## tarhi pAnakaM AnayAmi | ## = O.K . I will bring juice.
+## bhavAn kAphIM pibati uta chAyam ? ## = Do you prefer coffee or tea ?
+## kiJNchit vishrAntiM anubhavatu | ## = Have some rest, please.
+## adyaiva gantavyaM vA ? ## = Do you have to leave right now ?
+## bhojanAntaraM gachchhatu | ## = Go after lunch.
+## dinadvayaM tishhThatu bhoH | ## = Stay for two days.
+## rAtrau nidrA samyak AsIt | ## = I had sound sleep last night.
+## rAtrau nidrA eva nAsti bhoH | ## = I did not have even a wink of sleep last night.
+## bahiH gatavAn.h##,## idAnIM Agachchhati | ## = He has gone out, will be back in a few minutes.
+
+\section{## 27\. shubhAshayAH ##  = Greetings}
+
+## dIpAvalI shubhAshayAH | ## = Wish you a happy Deepavali.
+## yugAdi shubhAshayAH | ## = Wish you a happy New Year.
+## makarasaN^kramaNasya/poN^gal shubhAshayAH | ## = Wish you a happy Sankranti/Pongal.
+## navavarshhasya  shubhAshayAH | ## = Hearty greetings for a happy New Year.
+## navavarshhaM navachaitanyaM dadAtu | ## = Let the new year bring a new life.
+## bhavataH vaivAhikajIvanaM shubhamayaM bhavatu | ## = Wish you a very happy married life.
+## navadampatyoH vaivAhikajIvanaM sumadhuraM bhUyAt | ## = Wish the couple a very happy married life.
+## saphalatAyai abhinandanam | ## = Hearty congratulations on your success.
+## bhavadIyaH samArambhaH yashasvI bhavatu | ## = Wish the function a grand success.
+## shataM jIva sharado vardhamAnAH | ## = May you live for one hundred years.
+## shubhAH te panthAnaH | ## = Good bye (God be with you)
+
+          ## iti ##    The End
+
+\hrule
+
+Encoded and proofread by to S . V . Ganesan (deepa@tiac.net) and
+C . S . Raghavendra (csr@wipinfo.soft.net).
+The book sa.nskRita-vyavahAra-sAhasrI is published and copyrighted by
+Pallava Prakashan,
+Bangalore, India .  For more details contact Aksharam, 8th Cross,
+Girinagar, Bangalore 560 085 INDIA Ph: 080-6613052, 080-6617276
+
+
+\medskip\hrule\obeylines
+
+Please send corrections to sanskrit@cheerful.com
+Last updated \today
+https://sanskritdocuments.org
+
+\end{document}
